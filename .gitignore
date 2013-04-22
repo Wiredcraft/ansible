@@ -29,3 +29,7 @@ docsite/latest/_static/*.png
 docsite/latest/_static/websupport.js
 # deb building stuff...
 debian/
+
+#
+zbal-ansible/
+devops-ansible/

@@ -1,0 +1,6 @@
+[submodule "zbal-ansible"]
+	path = zbal-ansible
+	url = git://github.com/zbal/ansible.git
+[submodule "devops-ansible"]
+	path = devops-ansible
+	url = git@github.com:devo-ps/devops-ansible.git
